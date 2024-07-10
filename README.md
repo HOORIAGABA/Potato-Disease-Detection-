@@ -111,8 +111,3 @@ This project uses a custom-trained TensorFlow model for potato leaf disease clas
 │   └── package.json
 └── README.md # Project documentation
 
-
-
----
-
-You can copy this content into your `README.md` file when uploading the project to GitHub.
